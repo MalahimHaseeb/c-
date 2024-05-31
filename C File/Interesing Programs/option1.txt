@@ -1,0 +1,6 @@
+You chose the left path. After walking for a while, you find a small cabin.
+
+1. Enter the cabin.
+2. Keep walking down the path.
+
+Enter '1' or '2' to choose an action, or 'exit' to leave the game.

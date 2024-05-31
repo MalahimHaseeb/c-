@@ -1,0 +1,8 @@
+Welcome to the Adventure Game!
+
+You find yourself in a dark forest. In front of you, there are two paths.
+
+1. Take the left path.
+2. Take the right path.
+
+Enter '1' or '2' to choose a path, or 'exit' to leave the game.

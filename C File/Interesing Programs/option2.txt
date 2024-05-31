@@ -1,0 +1,6 @@
+You chose the right path. You encounter a river blocking your way.
+
+1. Try to swim across the river.
+2. Look for a bridge.
+
+Enter '1' or '2' to choose an action, or 'exit' to leave the game.
